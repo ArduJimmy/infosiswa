@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <info>
+        <title>Playlist Audio InfoSiswa</title>
+        <description>Daftar audio resmi infosiswa.org dari server GitHub</description>
+    </info>
+    
+    <tracklist>
+        <!-- Audio 1 -->
+        <track>
+            <id>1</id>
+            <title>Judul Audio 1</title>
+            <speaker>Nama Pembicara / Kategori</speaker>
+            <!-- Link langsung menggunakan jsDelivr CDN agar loadingnya cepat & mulus -->
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_1.mp3</file_url>
+        </track>
+
+        <!-- Audio 2 -->
+        <track>
+            <id>2</id>
+            <title>Judul Audio 2</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_2.mp3</file_url>
+        </track>
+
+        <!-- Audio 3 -->
+        <track>
+            <id>3</id>
+            <title>Judul Audio 3</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_3.mp3</file_url>
+        </track>
+
+        <!-- Audio 4 -->
+        <track>
+            <id>4</id>
+            <title>Judul Audio 4</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_4.mp3</file_url>
+        </track>
+
+        <!-- Audio 5 -->
+        <track>
+            <id>5</id>
+            <title>Judul Audio 5</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_5.mp3</file_url>
+        </track>
+
+        <!-- Audio 6 -->
+        <track>
+            <id>6</id>
+            <title>Judul Audio 6</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_6.mp3</file_url>
+        </track>
+
+        <!-- Audio 7 -->
+        <track>
+            <id>7</id>
+            <title>Judul Audio 7</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_7.mp3</file_url>
+        </track>
+
+        <!-- Audio 8 -->
+        <track>
+            <id>8</id>
+            <title>Judul Audio 8</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_8.mp3</file_url>
+        </track>
+
+        <!-- Audio 9 -->
+        <track>
+            <id>9</id>
+            <title>Judul Audio 9</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_9.mp3</file_url>
+        </track>
+
+        <!-- Audio 10 -->
+        <track>
+            <id>10</id>
+            <title>Judul Audio 10</title>
+            <speaker>Nama Pembicara</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_10.mp3</file_url>
+        </track>
+    </tracklist>
+</playlist>
