@@ -8,83 +8,82 @@
     <tracklist>
         <!-- Audio 1 -->
         <track>
-            <id>1</id>
-            <title>Judul Audio 1</title>
-            <speaker>Nama Pembicara / Kategori</speaker>
-            <!-- Link langsung menggunakan jsDelivr CDN agar loadingnya cepat & mulus -->
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_1.mp3</file_url>
+            <id>Lagu 1</id>
+            <title>Bagimu Negeri</title>
+            <speaker>Kusbini</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Bagimu%20Negeri.mp3</file_url>
         </track>
 
         <!-- Audio 2 -->
         <track>
-            <id>2</id>
-            <title>Judul Audio 2</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_2.mp3</file_url>
+            <id>Lagu 2</id>
+            <title>Bangun Pemudi Pemuda</title>
+            <speaker>Alfred Simanjuntak</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Bangun%20Pemudi%20Pemuda.mp3</file_url>
         </track>
 
         <!-- Audio 3 -->
         <track>
-            <id>3</id>
-            <title>Judul Audio 3</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_3.mp3</file_url>
+            <id>Lagu 3</id>
+            <title>Berkibarlah Benderaku</title>
+            <speaker>Unknown</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Berkibarlah%20Benderaku.mp3</file_url>
         </track>
 
         <!-- Audio 4 -->
         <track>
-            <id>4</id>
-            <title>Judul Audio 4</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_4.mp3</file_url>
+            <id>Lagu 4</id>
+            <title>Garuda Pancasila</title>
+            <speaker>Saridjah Niung (Ibu Soed)</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Garuda%20Pancasila.mp3</file_url>
         </track>
 
         <!-- Audio 5 -->
         <track>
-            <id>5</id>
-            <title>Judul Audio 5</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_5.mp3</file_url>
+            <id>Lagu 5</id>
+            <title>Gugur Bunga</title>
+            <speaker>Ismail Marzuki</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Gugur%20Bunga.mp3</file_url>
         </track>
 
         <!-- Audio 6 -->
         <track>
-            <id>6</id>
-            <title>Judul Audio 6</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_6.mp3</file_url>
+            <id>Lagu 6</id>
+            <title>Hari Merdeka</title>
+            <speaker>Habib Muhammad bin Husein al-Mutahar</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@mainHari%20Merdeka.mp3</file_url>
         </track>
 
         <!-- Audio 7 -->
         <track>
-            <id>7</id>
-            <title>Judul Audio 7</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_7.mp3</file_url>
+            <id>Lagu 7</id>
+            <title>Ibu Kita Kartini</title>
+            <speaker>Wage Rudolf Supratman</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Ibu%20Kita%20Kartini.mp3</file_url>
         </track>
 
         <!-- Audio 8 -->
         <track>
-            <id>8</id>
-            <title>Judul Audio 8</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_8.mp3</file_url>
+            <id>Lagu 8</id>
+            <title>Indonesia Raya</title>
+            <speaker>Wage Rudolf Supratman</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Indonesia%20Raya.mp3</file_url>
         </track>
 
         <!-- Audio 9 -->
         <track>
-            <id>9</id>
-            <title>Judul Audio 9</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_9.mp3</file_url>
+            <id>Lagu 9</id>
+            <title>Maju Tak Gentar</title>
+            <speaker>Cornel Simanjuntak</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Maju%20Tak%20Gentar.mp3</file_url>
         </track>
 
         <!-- Audio 10 -->
         <track>
-            <id>10</id>
-            <title>Judul Audio 10</title>
-            <speaker>Nama Pembicara</speaker>
-            <file_url>https://cdn.jsdelivr.net/gh/UsernameGitHubmu/NamaRepositorimu/nama_file_10.mp3</file_url>
+            <id>Lagu 10</id>
+            <title>Mengheningkan Cipta</title>
+            <speaker>Truno Prawit</speaker>
+            <file_url>https://cdn.jsdelivr.net/gh/ArduJimmy/infosiswa@main/Mengheningkan%20Cipta.mp3</file_url>
         </track>
     </tracklist>
 </playlist>
